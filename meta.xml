@@ -1,1 +1,4 @@
-
+<meta>
+	<info author="neux0" version="1.0" type="script" name="spawn" description="spawn script for player" />
+	<script src="server.lua" type="server" />
+</meta>
